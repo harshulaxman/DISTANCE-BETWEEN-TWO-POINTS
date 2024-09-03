@@ -37,3 +37,4 @@ print(distance)
 ![image](https://github.com/user-attachments/assets/abe86300-da7f-4c6a-a4c7-690c605fa592)
 
 ### RESULT:
+Thus to write a python program to find the distance two 2 points is performed successfully.
